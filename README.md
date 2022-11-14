@@ -1,7 +1,7 @@
 # C-Pool-2022
 Hello! I'm a student from the 2027 promotion. Here it is my Cpool of 2022 
 
-Cpool Part 1 unit : Grade ?
+Cpool Part 1 unit : Grade A
 
 |   Category   | Percentage | Number of tests |
 |:------------:|:----------:|:---------------:|
